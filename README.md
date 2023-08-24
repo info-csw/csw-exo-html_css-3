@@ -29,18 +29,14 @@
   - Mettez en place une grille ou une mise en page en colonnes pour présenter les œuvres de manière organisée.
   
 - **Stylisation des œuvres** :
-  - Utilisez des bordures, des ombres ou des effets de transition pour embellir l'affichage des images et des titres.
+  - Utilisez des bordures ou des ombres pour embellir l'affichage des images et des titres.
   - Pensez à rendre la galerie responsive, en adaptant le nombre d'œuvres par ligne en fonction de la largeur de l'écran.
 
 - **Barre de navigation** :
   - Stylisez vos liens pour qu'ils soient attrayants et intuitifs. Utilisez des changements de couleur ou des soulignements au survol pour indiquer la sélection.
 
 ### 3. Pour aller plus loin :
-
-- **Interactivité** :
-  - Ajoutez une fonctionnalité de "zoom" pour agrandir une œuvre lorsque l'utilisateur clique dessus ou la survole.
-  - Implémentez des transitions ou animations CSS pour rendre la navigation plus fluide et dynamique.
-  
+ 
 - **Page de détails** :
   - Envisagez la création d'une page détaillée pour chaque œuvre, qui s'ouvre lorsqu'un visiteur clique sur un élément de la galerie.
 
