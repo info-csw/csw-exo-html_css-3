@@ -7,8 +7,8 @@
     "doc": "doc"
   },
   "scripts": {
-    "test": "eslint ./dist/**/*.js && jest && documentation build ./dist/**/*.js -f md ",
-    "testhtml" : "jest",
+    "testjs": "eslint ./dist/**/*.js && jest && documentation build ./dist/**/*.js -f md ",
+    "test" : "jest",
     "doc": "documentation build ./dist/**/*.js -f md > ./doc/documentation.md"
   },
   "author": "",
